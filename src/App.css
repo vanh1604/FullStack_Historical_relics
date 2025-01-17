@@ -1,0 +1,5 @@
+.leaflet-routing-alternatives-container {
+  /* background-color: red; */
+  /* animation: toLeft 0.5s ease-in-out; */
+  @apply animate-toLeft;
+}
